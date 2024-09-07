@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @spicckles
-- 👀 I’m interested in medical engineering 
+- 👀 I’m currently interested in medical engineering 
 - 🌱 I’m currently learning Java & C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
